@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FindDuplicates/1.0.0": {
+        "runtime": {
+          "FindDuplicates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindDuplicates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
